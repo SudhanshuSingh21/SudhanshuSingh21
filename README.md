@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+![Header](./github-header-image.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhanshuSingh21&show_icons=true&theme=radical)
 
 <!--
